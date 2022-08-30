@@ -1,3 +1,9 @@
+package co.com.ies.pruebas;
+
+import co.com.ies.pruebas.Poker;
+import co.com.ies.pruebas.PokerHand;
+import co.com.ies.pruebas.WinnerHandType;
+import co.com.ies.pruebas.WinnerRound;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
