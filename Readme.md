@@ -59,7 +59,7 @@ También debe implementar los test con los casos mencionados en la descripción 
 - Se da un plus si crea nuevos test
 - Se da un plus si implementa más de las 5 validaciones, pero solo si funcionan todas las que implemente.
 - Se da un plus si implementa la estructura del juego de una manera distinta (Es decir que no utilizar las clases que se entregan, por ejemplo PokerHand, WinnerRound, etc).
-- Utilización de git como ramas, mensajes de commit
+- Utilizacion de git,  como creación de nuevas ramas, utilizar estándar en los mensajes de commit
 
 ## Comando correr los test
 ```bash
